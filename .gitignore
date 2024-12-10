@@ -2,5 +2,9 @@
 .env
 
 # Image files
-annotated_images/**.jpg
-input_images/**.jpg
+**/*.jpg
+**/*.jpeg
+**/*.png
+
+# Annotations file
+annotations/*.json

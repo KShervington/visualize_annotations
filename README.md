@@ -3,7 +3,7 @@ Takes an annotations file in COCO 1.0 format and the images it corresponds to an
 # Usage
 
 ```bash
-python visualize_annotations.py --annotations annotations.json --images input_images/
+python visualize_annotations.py --annotations annotations/instances_default.json --images input_images/
 ```
 
 # Arguments
