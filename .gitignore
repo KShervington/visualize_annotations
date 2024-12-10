@@ -1,0 +1,6 @@
+# Virtual environment
+.env
+
+# Image files
+annotated_images/**.jpg
+input_images/**.jpg
